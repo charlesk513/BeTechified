@@ -1,0 +1,26 @@
+{
+    "name": "week-2-api",
+    "version": "1.0.0",
+    "description": "Week 2 Express API assignment",
+    "main": "express_server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node express_server.js",
+        "dev": "nodemon express_server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/charlesk513/BeTechified.git"
+    },
+    "keywords": [],
+    "author": "Charlesk",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/charlesk513/BeTechified/issues"
+    },
+    "homepage": "https://github.com/charlesk513/BeTechified#readme",
+    "dependencies": {
+        "dotenv": "^17.4.2",
+        "express": "^5.2.1"
+    }
+}
