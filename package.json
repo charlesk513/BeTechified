@@ -1,0 +1,25 @@
+{
+  "name": "betechified",
+  "version": "1.0.0",
+  "description": "this repository contains work and projects attained from BeTechified under Backend development",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon express_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesk513/BeTechified.git"
+  },
+  "keywords": [],
+  "author": "Charlesk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesk513/BeTechified/issues"
+  },
+  "homepage": "https://github.com/charlesk513/BeTechified#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
