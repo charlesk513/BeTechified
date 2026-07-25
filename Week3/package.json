@@ -1,0 +1,17 @@
+{
+  "name": "week3-crud-todo-api-completed",
+  "version": "1.0.0",
+  "description": "Completed Week 3 Todo CRUD API assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
